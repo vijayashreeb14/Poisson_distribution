@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+# NAME : VIJAYASHREE
+# REG NO: 212223040238
+# DATE:14/3/25
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
